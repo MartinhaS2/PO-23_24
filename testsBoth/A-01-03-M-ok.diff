@@ -1,0 +1,22 @@
+*** testsBoth/A-01-03-M-ok.out	2024-10-25 01:27:34.143792641 +0100
+--- testsBoth/A-01-03-M-ok.outhyp	2024-10-25 01:29:43.243772774 +0100
+***************
+*** 12,17 ****
+--- 12,18 ----
+  0 - Sair
+  Escolha uma opção: 2
+  Ficheiro a abrir: app01.dat
++ Abrir ficheiro: Operação inválida: Problema ao abrir ficheiro: Erro a processar ficheiro app01.dat
+  Menu Principal
+  1 - Criar ficheiro
+  2 - Abrir ficheiro
+***************
+*** 34,40 ****
+  6 - Mostrar árvores de habitat
+  0 - Sair
+  Escolha uma opção: 1
+- HABITAT|AR1|Aldeia dos Macacos|20|0
+  Gestão de Habitats
+  1 - Visualizar todos os habitats
+  2 - Registar habitat
+--- 35,40 ----
